@@ -6,15 +6,15 @@
   "indices": [
     {
       "name": "osmlinestrings",
-      "body": "index.json"
+      "body": "../index.json"
     },
     {
       "name": "osmmultilinestrings",
-      "body": "index.json"
+      "body": "../index.json"
     },
     {
       "name": "osmpolygons",
-      "body": "index.json"
+      "body": "../index.json"
     }
   ],
   "corpora": [
